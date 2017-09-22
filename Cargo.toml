@@ -3,4 +3,18 @@ name = "json_to_csv"
 version = "0.1.0"
 authors = ["Tom Milligan <code@tommilligan.net>"]
 
+description = "Convert a JSON input to CSV"
+repository = "https://github.com/tommilligan/json_to_csv"
+readme = "README.md"
+keywords = ["json", "csv", "convert", "transform", "serialize"]
+categories = ["data-structures", "command-line-utilities"]
+license = "Apache-2.0"
+
+[badges]
+
+travis-ci = { repository = "tommilligan/json_to_csv", branch = "master" }
+codecov = { repository = "tommilligan/json_to_csv", branch = "master", service = "github" }
+maintenance = { status = "experimental" }
+
+
 [dependencies]
