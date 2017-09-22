@@ -1,6 +1,6 @@
 [package]
 name = "json_to_csv"
 version = "0.1.0"
-authors = ["Tom Milligan <tom@tommilligan.net>"]
+authors = ["Tom Milligan <code@tommilligan.net>"]
 
 [dependencies]
