@@ -18,3 +18,5 @@ maintenance = { status = "experimental" }
 
 
 [dependencies]
+serde_json = "1.0"
+spectral = "0.6"

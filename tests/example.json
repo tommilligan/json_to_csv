@@ -1,0 +1,17 @@
+{
+    "people": [
+        {
+            "name": "spam",
+            "age": "42"
+        },
+        {
+            "name": "eggs",
+            "age": "0"
+        }
+    ],
+    "source": {
+        "name": "my brain",
+        "license": "Apache 2.0"
+    }
+}
+
